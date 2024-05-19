@@ -1,4 +1,8 @@
 ### Devops Roadmap
+
+![Devops1](https://github.com/CareerPod/Devops-Roadmap/assets/71755586/746b3671-7b42-4287-8a10-5e86750aac00)
+
+
 | S.No | Topics |   Resources  | | 
 | ---- | ------ | ------------ |  --------|
 | 1    | What is Devops ? | Video : [Watch now](https://youtu.be/Ou9j73aWgyE?feature=shared) ||
@@ -22,6 +26,11 @@
 - Terraform
 - Sonarqube
 - AWS SDK / AZURE SDK
+
+### Certifications You no need to get all Certifications .
+- Cloud Certification (Any Cloud Provider But Do Associate Level Certification ,For Fundamentals do only )
+- Linux Certification (LFCS OR RHEL)
+- As a Fresher Other Certs or Optional .
 
 ### Interview Cracking Tips 🦾 :
 
