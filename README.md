@@ -5,14 +5,14 @@
 
 | S.No | Topics |   Resources  | | 
 | ---- | ------ | ------------ |  --------|
-| 1    | What is Devops ? | Video : [Watch now](https://youtu.be/Ou9j73aWgyE?feature=shared) ||
-|2|What is SDLC(Software Development Lifecycle ) how it Works ? |Video: [Watch now](https://youtu.be/jRqBIpcgO4g?feature=shared)||
-| 3    | What is Virtualization, VM, Servers and How it Works ? | Video: [Watch now](https://drive.google.com/file/d/1HDIs4LkVUKBJ2SXtfALaDTjY21rIEUph/view?usp=sharing) |Notes: [Read now](https://lush-street-1a5.notion.siteVirtualization-2e7829eb0d9e48c1a11b016df21d95af?pvs=74)   |
+| 1    | What is Devops ? | Video : [Watch now](https://youtu.be/Ou9j73aWgyE?feature=shared) | Notes: [Read now](https://raghul-m.notion.site/Devops-SDLC-2315c7d82f244f1aad78b7e612c62463?pvs=4)|
+|2|What is SDLC(Software Development Lifecycle ) how it Works ? |Video: [Watch now](https://youtu.be/jRqBIpcgO4g?feature=shared)|Notes: [Read now](https://raghul-m.notion.site/Devops-SDLC-2315c7d82f244f1aad78b7e612c62463?pvs=4)|
+| 3    | What is Virtualization, VM, Servers and How it Works ? | Video: [Watch now](https://drive.google.com/file/d/1HDIs4LkVUKBJ2SXtfALaDTjY21rIEUph/view?usp=sharing) |Notes: [Read now](https://raghul-m.notion.site/Virtualization-2e7829eb0d9e48c1a11b016df21d95af)   |
 | 4| Linux Basics & Administrator | Video:[ Watch now -  English](https://youtu.be/iwolPf6kN-k?feature=shared )    | Video:[ Watch now -  Tamil](https://youtu.be/9fMWM6-vdJg?feature=shared)|
-|5|Git & Github|Video: [ Watch now ](https://youtu.be/nFLe5PjWx6M?feature=shared)|Notes: [Read Now ](https://lush-street-1a5.notion.site/Git-Github-f5990ee57535466d922c9c1b6be63047)|
+|5|Git & Github|Video: [ Watch now ](https://youtu.be/nFLe5PjWx6M?feature=shared)|Notes: [Read Now ](https://raghul-m.notion.site/Git-Github-f5990ee57535466d922c9c1b6be63047)|
 |6|Bash Scripting and Simple Automation using Bash|Video: [ Watch now ](https://youtu.be/e7BufAVwDiM?feature=shared) |||
 |7|Networking|Video: [ Watch now](https://youtu.be/IPvYjXCsTg8?feature=shared)|||
-|8|YAML | Video: [Watch now](https://youtu.be/IA90BTozdow?feature=shared)|||
+|8|YAML | Video: [Watch now](https://youtu.be/IA90BTozdow?feature=shared)| Notes : [Read now ](https://raghul-m.notion.site/YAML-4f59460b363d480ea2a6cb176500a347)||
 |9|Containerization & Docker |Video: [Watch now  - Tamil](https://youtu.be/99wj94_uyG4?feature=shared )|Video: [Watch now - English](https://youtu.be/3F1ZOkqK7Ww?feature=shared)|
 |10| CI/CD |Video: [ Watch now](https://youtu.be/CmVxoNkkACQ?feature=shared)|||
 |11|Jenkins|Video:[Watch now](https://youtube.com/playlist?list=PLdpzxOOAlwvJDIAQZtMjUUbiVUDfGaCIX&feature=shared)|||
